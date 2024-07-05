@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å‚Æöþÿÿÿÿ8Ÿ…²ÞÐ1J$06a9e83d-0d15-4d74-8905-1fd283aaec71
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ªˆÔ8 …²ÞÐ1J$669901c0-bbff-4d3b-b2bf-e9b65af4811d
+~	java:S1250"<This block of commented-out lines of code should be removed.(‘öÃí8«…²ÞÐ1J$72daa3dd-75fd-4ea0-a16e-e5432932312a
+ƒ	java:S1254"<This block of commented-out lines of code should be removed.(Ç“·Ôùÿÿÿÿ8«…²ÞÐ1J$00bbacd1-f93d-43c0-b9aa-505dc9cc90de
+y
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8¬…²ÞÐ1J$2d6d9052-4cd7-42d0-87c6-d194d9b44e5b

@@ -1,0 +1,23 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ïë¼ÿÿÿÿÿ8„ÍåİĞ1J$edd3042f-11c7-401b-831a-372edc784d63
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ï’Ó8…ÍåİĞ1J$e078f3fa-3c42-489e-a951-893d747d4b2e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ŠÍåİĞ1J$0f93fe38-9b31-4185-977f-61eeb36372fa
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ŠÍåİĞ1J$8d3d503f-52a1-4f3c-9b90-8b71546be2cd
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(ğÂó“ûÿÿÿÿ8ÍåİĞ1J$f5a996b5-088b-4a6b-9b03-0de98dd5567e
+~	java:S125B"<This block of commented-out lines of code should be removed.(²¸¤Á8ùæİĞ1J$f2112890-88d2-4fed-b364-eef9a39329e8
+—
+java:S1128"ORemove this unused import 'com.hotelReservation.hotelReservation.entity.hotel'.(ÌÊÅÌüÿÿÿÿ8ÍåİĞ1J$ba747e2c-ed50-4625-9f47-c2598b9d925c
+”
+java:S1128"LRemove this unused import 'org.hibernate.validator.internal.util.Contracts'.(‚ºÁşÿÿÿÿ8ÍåİĞ1J$00e44d97-fc9f-4aad-b59b-1ef5e8671f7d
+ˆ
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8ÍåİĞ1J$e9b7294b-6359-432b-a793-89466ad95f4a
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8ÍåİĞ1J$2a109355-acf3-495d-bebb-4e3b0a34a3cf
+š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.DeleteMapping'.(­ìÎªşÿÿÿÿ8ÍåİĞ1J$0b8bf286-ebbe-4fdb-ad8f-276a16da5dd7
+™
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8ÍåİĞ1J$b93dca39-9b92-4fcb-8e72-6297551f40aa
+—
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿ8ÍåİĞ1J$82d8ffcf-0fbd-4c72-aa01-f486353a0cb8

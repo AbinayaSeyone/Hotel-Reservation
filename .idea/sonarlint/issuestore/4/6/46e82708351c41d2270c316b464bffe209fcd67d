@@ -1,0 +1,22 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ˆïˆúÿÿÿÿ8ìö±Ğ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ªˆÔ8ìö±Ğ1
+]	java:S125'"<This block of commented-out lines of code should be removed.(„ã‚îüÿÿÿÿ8à¥´Ğ1
+]	java:S125/"<This block of commented-out lines of code should be removed.(åçİ”ûÿÿÿÿ8‰ÖÚ¹Ğ1
+X	java:S1252"<This block of commented-out lines of code should be removed.(‰íñÒ8ğéİ¹Ğ1
+]	java:S1256"<This block of commented-out lines of code should be removed.(±“Üéúÿÿÿÿ8§…ÿ´Ğ1
+^
+java:S1128"<Remove this unused import 'jakarta.persistence.CascadeType'.(ÃÃÊŠúÿÿÿÿ8Ôº›ºĞ1
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8Ôº›ºĞ1
+X
+java:S1128
+";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•8Ôº›ºĞ1
+n
+java:S1128"LRemove this unused import 'org.hibernate.validator.internal.util.Contracts'.(‚ºÁşÿÿÿÿ8Ôº›ºĞ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Õº›ºĞ1
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8Õº›ºĞ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Õº›ºĞ1
